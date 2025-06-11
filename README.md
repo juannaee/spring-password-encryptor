@@ -84,7 +84,7 @@ POST http://localhost:8080/api/encrypt
 
 ## ✍️ Autor
 
-Desenvolvido por **[Juan Guilherme Silva Lemos](xurl.ooo/upsb7)**
+Desenvolvido por **[Juan Guilherme Silva Lemos](https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244/)**
 
 ---
 
